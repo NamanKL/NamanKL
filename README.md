@@ -10,14 +10,12 @@ I enjoy building random tools, scripts, and experiments just for fun.
 
 ---
 
-## 🛠 Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,swift,git,github,vscode" />
-</p>
-
----
-
 ## ⚡ Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&theme=tokyonight\&show_icons=true)
+
+---
+
+## 🛠 Languages & Tools
+
+Python • JavaScript • HTML • CSS • Swift • Git • GitHub
