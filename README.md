@@ -1,22 +1,22 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hello
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=35\&center=true\&vCenter=true\&width=600\&lines=Building+random+things;Experimenting+with+code;Creating+cool+projects)
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="25"/> About
+## 🧠 About
 
-I enjoy building random tools, scripts, and experiments just for fun.
+I like coding for fun!
 
 ---
 
 ## ⚡ Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&theme=tokyonight\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=NamanKL\&theme=tokyonight\&show_icons=true)
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/> Tech Stack
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
